@@ -1,0 +1,10 @@
+Total Number of Airports: 
+List of Airport: 
+Starting Airport is Monaco Airport: MNC 
+Total number of existing Flight routes: 
+List Flight routes: 
+New flight routes to be added: 
+MNC EWR
+MNC EYW
+MNC TLU
+Count of new flight routes added: 3
